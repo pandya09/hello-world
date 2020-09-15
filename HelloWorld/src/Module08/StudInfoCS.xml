@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student id="1">
+        <Name>Josh</Name>
+        <Standard>11</Standard>
+        <Gender>Male</Gender>
+        <Marks>80</Marks>
+        <Address>Roorkey</Address>
+    </Student>
+    <Student id="2">
+        <Name>Miya</Name>
+        <Standard>9</Standard>
+        <Gender>Female</Gender>
+        <Marks>95</Marks>
+        <Address>Vellore</Address>
+    </Student>
+    <Student id="3">
+        <Name>Light</Name>
+        <Standard>12</Standard>
+        <Gender>Male</Gender>
+        <Marks>98</Marks>
+        <Address>Bardoli</Address>
+    </Student>
+</Students>

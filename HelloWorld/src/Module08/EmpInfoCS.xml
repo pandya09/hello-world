@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+    <Employee id="1">
+        <Name>Josh</Name>
+        <Gender>Male</Gender>
+        <Salary>50000</Salary>
+        <Address>Amsterdam</Address>
+    </Employee>
+    <Employee id="2">
+        <Name>Miya</Name>
+        <Gender>Female</Gender>
+        <Salary>80000</Salary>
+        <Address>Vienna</Address>
+    </Employee>
+    <Employee id="3">
+        <Name>Light</Name>
+        <Gender>Male</Gender>
+        <Salary>100000</Salary>
+        <Address>Berlin</Address>
+    </Employee>
+</Employees>
